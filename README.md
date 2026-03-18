@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE: 18/03/2026
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -48,20 +48,23 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/3b394ffa-4aea-4e56-a12b-eccab47afee5)
+ X-axis assembly:
+<img width="1150" height="623" alt="Screenshot 2026-03-18 225850" src="https://github.com/user-attachments/assets/0b4f4969-9ec0-4a3b-aa0b-2fc67b620f9d" />
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7)
+Y-axis assembly:
+<img width="1150" height="629" alt="Screenshot 2026-03-18 225904" src="https://github.com/user-attachments/assets/4b4d06f3-a986-45c7-9b84-ef4e1d669c07" />
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/803397cb-5685-4bc2-82c2-6b1d1e3a2eec)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
+Z-axis assembly:
+<img width="1146" height="636" alt="Screenshot 2026-03-18 230000" src="https://github.com/user-attachments/assets/1ebec1b6-8899-49ff-98ed-cb2a18d9f4af" />
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
 
-### Name: 
-### Register Number:
+### Name: Monisha D
+### Register Number: 212225240090
+
+<img width="1145" height="646" alt="Screenshot 2026-03-18 230015" src="https://github.com/user-attachments/assets/e7e673d3-8acc-436a-806b-574a95e4d572" />
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
